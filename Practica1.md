@@ -15,4 +15,4 @@ if precios:
 else:
     print("la lista de precios esta vacia")
 
-![image](https://github.com/user-attachments/assets/617a22e4-d319-4895-a284-bee46dd98bfb)
+![image](https://github.com/user-attachments/assets/2df95bc8-dfc6-46b9-b73c-33c4c9d97e08)
